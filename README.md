@@ -1,1 +1,1 @@
-# ColorPicker
+A Simple Color Picking Tool
